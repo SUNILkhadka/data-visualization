@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+museum_visitors.csv
+cancer_b.csv
